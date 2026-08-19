@@ -12,10 +12,10 @@ Removes the background from an image (or a whole folder of them) and saves the r
 ## Requirements
 
 - Python 3.8+
-- Packages: `rembg`, `pillow`
+- Packages: `rembg`, `pillow`, `onnxruntime`
 
 ```bash
-pip install rembg pillow
+pip install rembg pillow onnxruntime
 ```
 
 The first time you run the script, it downloads the model file automatically (a few MB for the default model). This needs an internet connection once — after that, it's cached locally and works offline.
