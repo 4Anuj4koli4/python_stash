@@ -24,10 +24,11 @@ The repository contains projects covering different areas of Python:
 
 This section will grow as new projects are added.
 
- - 📌 Air Sketch ---- Draw in thin air using nothing but your webcam and your hand.  
- - 📌 Hand Lens ---- Frame a rectangle between your two hands and watch a live video filter.
- - 📌 Batch Photo Copier ---- A Quick tool to Copy your selected photos at once using Numbers.
- - 📌 BG Remover ---- A Quick tool to remove background of a image.
+- 📌 Air Sketch ---- Draw in thin air using nothing but your webcam and your hand.
+- 📌 Hand Lens ---- Frame a rectangle between your two hands and watch a live video filter.
+- 📌 Batch Photo Copier ---- A Quick tool to Copy your selected photos at once using Numbers.
+- 📌 BG Remover ---- A Quick tool to remove background of a image.
+- 📌 Dino Game ---- A simple "Dino" runner game .
 
 > 🔄 **More projects will be added as I continue learning, experimenting, and building.**
 
