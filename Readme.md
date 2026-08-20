@@ -1,6 +1,6 @@
 # 🐍 Python Projects & Scripts
 
-A growing collection of my **Python experiments, mini-projects, utilities, automation scripts, and random ideas** built while learning and exploring different areas of programming.
+A growing collection of my **Python learnings, experiments, mini-projects, utilities, automation scripts, and random ideas** built while learning and exploring different areas of programming.
 
 This repository is my Python playground — some projects are polished, some are experiments, and some exist simply because I wanted to try something interesting. 😄
 
@@ -28,7 +28,8 @@ This section will grow as new projects are added.
 - 📌 Hand Lens ---- Frame a rectangle between your two hands and watch a live video filter.
 - 📌 Batch Photo Copier ---- A Quick tool to Copy your selected photos at once using Numbers.
 - 📌 BG Remover ---- A Quick tool to remove background of a image.
-- 📌 Dino Game ---- A simple "Dino" runner game .
+- 📌 Dino Game ---- A simple "Dino" runner game.
+- 📌 Oneshot ---- One file, zero ambition — just flexing Python fundamentals.
 
 > 🔄 **More projects will be added as I continue learning, experimenting, and building.**
 
