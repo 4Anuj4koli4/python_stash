@@ -31,6 +31,7 @@ This section will grow as new projects are added (or as new distractions success
 - 📌 **Dino Game** ---- A simple "Dino" runner game, for when you want to procrastinate on your procrastination project.
 - 📌 **Oneshot** ---- One file, zero ambition — just flexing Python fundamentals.
 - 📌 **Hangman** ---- A simple word guessing Hangman game.
+- 📌 **Crypto Lab** ---- A Cryptography playground for experimenting with different encryption, decryption.
 
 > 🔄 **More projects will be added as I continue learning, experimenting, and occasionally producing something that actually works on the first try.**
 
